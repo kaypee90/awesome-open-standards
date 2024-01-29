@@ -31,3 +31,5 @@
 [Markdown](https://www.markdownguide.org/getting-started/): Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
 [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP): Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML.
+
+[Open Document](https://opendocumentformat.org/): OpenDocument Format provides a comprehensive solution to exchange documents reliably and effortlessly across different products and devices.
