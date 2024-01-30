@@ -33,3 +33,11 @@
 [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP): Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML.
 
 [Open Document](https://opendocumentformat.org/): OpenDocument Format provides a comprehensive solution to exchange documents reliably and effortlessly across different products and devices.
+
+[XML](https://aws.amazon.com/what-is/xml/): Extensible Markup Language (XML) lets you define and store data in a shareable manner.
+
+[HTML](https://html.spec.whatwg.org/multipage/): HTML is the World Wide Web's core markup language. Originally, HTML was primarily designed as a language for semantically describing scientific documents.
+
+[Open Data](https://en.wikipedia.org/wiki/Open_data): Open data is data that is openly accessible, exploitable, editable and shared by anyone for any purpose. Open data is licensed under an open license.
+
+[ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity): In computing, Open Database Connectivity (ODBC) is a standard application programming interface (API) for accessing database management systems (DBMS).
