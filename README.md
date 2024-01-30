@@ -1,7 +1,8 @@
 # Awesome Open Standards
 
-### List of awesome open standards
+- [Contributing](#contributing)
 
+### List of awesome open standards
 
 [HTML](https://html.spec.whatwg.org/multipage/): HTML is the World Wide Web's core markup language. Originally, HTML was primarily designed as a language for semantically describing scientific documents.
 
@@ -41,3 +42,9 @@
 
 [YAML](https://yaml.org/): YAML is a human-friendly data serialization
   language for all programming languages.
+
+
+
+# Contributing
+
+Your contributions are always welcome. Create a PR for a popular open standard.
