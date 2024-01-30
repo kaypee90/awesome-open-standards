@@ -55,6 +55,9 @@
 ### [Protocol Buffers](https://protobuf.dev/)
 - Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data.
 
+### [URI](https://datatracker.ietf.org/doc/html/rfc3986)
+- A Uniform Resource Identifier (URI) is a compact sequence of characters that identifies an abstract or physical resource. 
+
 ### [Web Assembly](https://webassembly.org/)
 - WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine.
 
