@@ -34,6 +34,9 @@
 ### [Open Document](https://opendocumentformat.org/)
 - OpenDocument Format provides a comprehensive solution to exchange documents reliably and effortlessly across different products and devices.
 
+### [Open Font Format](https://www.iso.org/standard/52136.html#:~:text=The%20Open%20Font%20Format%20is,or%20CFF%20(PostScript)%20outlines.)
+- The Open Font Format is an extension of the TrueType font format, adding support for PostScript font data.
+
 ### [Open SSH](https://www.openssh.com/)
 - OpenSSH is the premier connectivity tool for remote login with the SSH protocol. It encrypts all traffic to eliminate eavesdropping, connection hijacking, and other attacks. In addition, OpenSSH provides a large suite of secure tunneling capabilities, several authentication methods, and sophisticated configuration options.
 
