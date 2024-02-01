@@ -16,6 +16,9 @@
 ### [JSON](https://www.json.org/json-en.html)
 - JSON (JavaScript Object Notation) is a lightweight data-interchange format.
 
+### [JSON Schema](https://json-schema.org/)
+- JSON Schema is the vocabulary that enables JSON data consistency
+
 ### [Markdown](https://www.markdownguide.org/getting-started/)
 - Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
