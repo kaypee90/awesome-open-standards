@@ -4,6 +4,12 @@
 
 ### List of awesome open standards
 
+### [GeoJson](https://datatracker.ietf.org/doc/html/rfc7946)
+- GeoJSON is a geospatial data interchange format based on JavaScript
+   Object Notation (JSON).  It defines several types of JSON objects and
+   the manner in which they are combined to represent data about
+   geographic features, their properties, and their spatial extents.
+
 ### [HTML](https://html.spec.whatwg.org/multipage/)
 - HTML is the World Wide Web's core markup language. Originally, HTML was primarily designed as a language for semantically describing scientific documents.
 
