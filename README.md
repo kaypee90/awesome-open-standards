@@ -85,7 +85,8 @@
 ### [YAML](https://yaml.org/)
 - YAML is a human-friendly data serialization language for all programming languages.
 
-
+### [OpenXLA](https://github.com/openxla)
+- A community-driven, open source ML compiler ecosystem, using the best of XLA & MLIR.
 
 # Contributing
 
