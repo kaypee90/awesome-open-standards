@@ -67,6 +67,9 @@
 ### [OpenSSL](https://www.openssl.org/)
 - The OpenSSL Project develops and maintains the OpenSSL software - a robust, commercial-grade, full-featured toolkit for general-purpose cryptography and secure communication
 
+### [OpenXLA](https://github.com/openxla)
+- A community-driven, open source ML compiler ecosystem, using the best of XLA & MLIR.
+
 ### [POSIX](https://www.linux.org/)
 - POSIX (Portable Operating System Interface) is a set of standard operating system interfaces based on the Unix operating system
 
@@ -85,8 +88,7 @@
 ### [YAML](https://yaml.org/)
 - YAML is a human-friendly data serialization language for all programming languages.
 
-### [OpenXLA](https://github.com/openxla)
-- A community-driven, open source ML compiler ecosystem, using the best of XLA & MLIR.
+<br>
 
 # Contributing
 
