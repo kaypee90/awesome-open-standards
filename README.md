@@ -4,6 +4,9 @@
 
 ### List of awesome open standards
 
+### [Cloud Events](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/spec.md)
+- CloudEvents is a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
+
 ### [GeoJSON](https://datatracker.ietf.org/doc/html/rfc7946)
 - GeoJSON is a geospatial data interchange format based on JavaScript
    Object Notation (JSON).  It defines several types of JSON objects and
