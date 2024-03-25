@@ -11,10 +11,13 @@ on:
     branches: [ "main" ]
 
 jobs:
-  lint-changelog:
+  lint-changelog:    
     name: Lint README.md file
     runs-on: ubuntu-latest
     steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
       - name: Run current action using stub markdown file
         uses: ./
         with:
