@@ -18,9 +18,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Run current action using stub markdown file
-        uses: ./
+      - name: Lint README file
+        uses: avto-dev/markdown-lint@v1
         with:
           args: './README.md'
-        env:
-          DEBUG: 'true'
