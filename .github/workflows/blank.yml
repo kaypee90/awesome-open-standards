@@ -12,12 +12,12 @@ on:
 
 jobs:
   lint-changelog:
-    name: Lint changelog file
+    name: Lint README.md file
     runs-on: ubuntu-latest
     steps:
-    - name: Lint Readme file
-      uses: avto-dev/markdown-lint@v1
-      with:
-        rules: '/lint/rules/changelog.js'
-        config: '/lint/config/changelog.yml'
-        args: './README.md'
+      - name: Run current action using stub markdown file
+        uses: ./
+        with:
+          args: './README.md'
+        env:
+          DEBUG: 'true'
