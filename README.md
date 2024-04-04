@@ -38,7 +38,7 @@
 
 ### [JSON Schema](https://json-schema.org/)
 
-- JSON Schema is the vocabulary that enables JSON data consistency
+- JSON Schema is the vocabulary that enables JSON data consistency.
 
 ### [Markdown](https://www.markdownguide.org/getting-started/)
 
@@ -123,7 +123,7 @@
 
 - The OpenSSL Project develops and maintains the OpenSSL
  software - a robust, commercial-grade, full-featured
-  toolkit for general-purpose cryptography and secure communication
+  toolkit for general-purpose cryptography and secure communication.
 
 ### [OpenXLA](https://github.com/openxla)
 
@@ -133,7 +133,7 @@
 ### [POSIX](https://www.linux.org/)
 
 - POSIX (Portable Operating System Interface) is a set of standard operating
- system interfaces based on the Unix operating system
+ system interfaces based on the Unix operating system.
 
 ### [Protocol Buffers](https://protobuf.dev/)
 
