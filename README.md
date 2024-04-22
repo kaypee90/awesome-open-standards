@@ -144,7 +144,8 @@
 
 - SQL (standing for Structured Query Language) is the standard language for
  relational database management systems. Read more at the ANSI Blog:
-  The SQL Standard – ISO/IEC 9075:2023 (ANSI X3.135) https://blog.ansi.org/?p=158690
+  The SQL Standard – ISO/IEC 9075:2023 (ANSI X3.135) 
+  [https://blog.ansi.org/?p=158690](more).
 
 ### [URI](https://datatracker.ietf.org/doc/html/rfc3986)
 
