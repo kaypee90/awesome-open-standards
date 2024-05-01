@@ -82,8 +82,8 @@
 
 ### [Open Sound Control Protocol](https://ccrma.stanford.edu/groups/osc/index.html)
 
-- OpenSoundControl (OSC) is a data transport specification (an encoding) for 
-realtime message communication among applications and hardware
+- OpenSoundControl (OSC) is a data transport specification (an encoding) for
+ realtime message communication among applications and hardware
 
 ### [Open SSH](https://www.openssh.com/)
 
