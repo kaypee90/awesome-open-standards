@@ -116,6 +116,12 @@
    the authentication performed by an Authorization Server and to
     obtain user profile information in an interoperable and REST-like manner.
 
+### [OpenMCT](https://github.com/nasa/openmct)
+
+- Open MCT (Open Mission Control Technologies) is a next-generation 
+mission control framework for visualization of data on desktop 
+and mobile devices.
+
 ### [OpenMP](https://www.openmp.org/)
 
 - OpenMP (Open Multi-Processing) is an application programming interface
