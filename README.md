@@ -118,9 +118,9 @@
 
 ### [OpenMCT](https://github.com/nasa/openmct)
 
-- Open MCT (Open Mission Control Technologies) is a next-generation 
-mission control framework for visualization of data on desktop 
-and mobile devices.
+- Open MCT (Open Mission Control Technologies) is a next-generation
+ mission control framework for visualization of data on desktop
+ and mobile devices.
 
 ### [OpenMP](https://www.openmp.org/)
 
