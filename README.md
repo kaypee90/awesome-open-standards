@@ -153,7 +153,9 @@
 
 ### [SAML](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)
 
-- The Security Assertion Markup Language (SAML) standard defines a framework for exchanging security information between online business partners.
+- The Security Assertion Markup Language (SAML) standard defines a 
+framework for exchanging security information between online 
+business partners.
 
 ### [SQL Standard – ISO/IEC 9075:2023 (ANSI X3.135)](https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/)
 
