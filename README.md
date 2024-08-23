@@ -49,6 +49,12 @@
 
 - OAuth 2.0 is the industry-standard protocol for authorization.
 
+### [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec/blob/2291163927cae6f5105a07d32c675c00ff39244c/spec.md)
+
+- The Open Container Initiative Distribution Specification
+ (a.k.a. "OCI Distribution Spec") defines an API protocol to
+  facilitate and standardize the distribution of content.
+
 ### [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)
 
 - In computing, Open Database Connectivity (ODBC) is a standard
