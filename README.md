@@ -40,6 +40,10 @@
 
 - JSON Schema is the vocabulary that enables JSON data consistency.
 
+### [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/)
+
+- The language server protocol defines a set of JSON-RPC request, response and notification messages which are exchanged using the above base protocol.
+
 ### [Markdown](https://www.markdownguide.org/getting-started/)
 
 - Markdown is a lightweight markup language that you can use to
