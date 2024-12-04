@@ -77,6 +77,15 @@ using the above base protocol.
  for the express purpose of creating open industry standards
   around container formats and runtimes.
 
+### [Open charge point protocol](https://openchargealliance.org/protocols/open-charge-point-protocol/)
+
+- The goal for Open Charge Point Protocol (OCPP) is to offer a uniform solution
+ for the method of communication between charge point and central system.
+  With this protocol it is possible to connect any central system with any
+   charge point, regardless of the vendor. A uniform standard prevents
+    all kinds of coordination problems and  is therefore an advantage
+     for the whole electric vehicle market.
+
 ### [Open Data](https://en.wikipedia.org/wiki/Open_data)
 
 - Open data is data that is openly accessible, exploitable, editable
