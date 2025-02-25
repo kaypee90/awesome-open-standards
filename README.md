@@ -193,7 +193,7 @@ business partners.
 ### [vCard Format](https://datatracker.ietf.org/doc/html/rfc6350)
 
 - The vCard specification is a standardized format for exchanging contact
- information between different applications and systems. 
+ information between different applications and systems.
 
 ### [Web Assembly](https://webassembly.org/)
 
