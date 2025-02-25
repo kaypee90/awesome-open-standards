@@ -190,6 +190,11 @@ business partners.
 - A Uniform Resource Identifier (URI) is a compact sequence of characters
  that identifies an abstract or physical resource.
 
+### [vCard Format](https://datatracker.ietf.org/doc/html/rfc6350)
+
+- The vCard specification is a standardized format for exchanging contact
+ information between different applications and systems.
+
 ### [Web Assembly](https://webassembly.org/)
 
 - WebAssembly (abbreviated Wasm) is a binary instruction format
