@@ -190,6 +190,10 @@ business partners.
 - A Uniform Resource Identifier (URI) is a compact sequence of characters
  that identifies an abstract or physical resource.
 
+### [PAM (Portable AI Memory)](https://portable-ai-memory.org)
+
+- An open specification defining a vendor-neutral JSON interchange format for AI user memories, similar to vCard for contacts or iCalendar for events. Defines three composable schemas: Memory Store, Conversation, and Embeddings.
+
 ### [vCard Format](https://datatracker.ietf.org/doc/html/rfc6350)
 
 - The vCard specification is a standardized format for exchanging contact
