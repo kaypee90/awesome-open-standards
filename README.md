@@ -162,6 +162,10 @@ using the above base protocol.
 - A community-driven, open source ML compiler ecosystem,
  using the best of XLA & MLIR.
 
+### [PAM (Portable AI Memory)](https://portable-ai-memory.org)
+
+- An open specification defining a vendor-neutral JSON interchange format for AI user memories, similar to vCard for contacts or iCalendar for events. Defines three composable schemas: Memory Store, Conversation, and Embeddings.
+
 ### [POSIX](https://www.linux.org/)
 
 - POSIX (Portable Operating System Interface) is a set of standard operating
@@ -189,10 +193,6 @@ business partners.
 
 - A Uniform Resource Identifier (URI) is a compact sequence of characters
  that identifies an abstract or physical resource.
-
-### [PAM (Portable AI Memory)](https://portable-ai-memory.org)
-
-- An open specification defining a vendor-neutral JSON interchange format for AI user memories, similar to vCard for contacts or iCalendar for events. Defines three composable schemas: Memory Store, Conversation, and Embeddings.
 
 ### [vCard Format](https://datatracker.ietf.org/doc/html/rfc6350)
 
