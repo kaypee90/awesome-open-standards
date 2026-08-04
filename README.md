@@ -164,7 +164,9 @@ using the above base protocol.
 
 ### [PAM (Portable AI Memory)](https://portable-ai-memory.org)
 
-- An open specification defining a vendor-neutral JSON interchange format for AI user memories, similar to vCard for contacts or iCalendar for events. Defines three composable schemas: Memory Store, Conversation, and Embeddings.
+- An open specification defining a vendor-neutral JSON interchange format
+  for AI user memories, similar to vCard for contacts or iCalendar for events.
+  Defines three composable schemas: Memory Store, Conversation, and Embeddings.
 
 ### [POSIX](https://www.linux.org/)
 
