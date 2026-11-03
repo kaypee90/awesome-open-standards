@@ -1,220 +1,193 @@
 # Awesome Open Standards
 
+[![CI](https://github.com/kaypee90/awesome-open-standards/actions/workflows/ci.yml/badge.svg)](https://github.com/kaypee90/awesome-open-standards/actions/workflows/ci.yml)
+
+A curated list of popular open standards: publicly available specifications
+that anyone can read and implement. Each entry links to the specification
+itself (or its official home page) and names the body that maintains it.
+
+## Contents
+
+- [Data Formats and Serialization](#data-formats-and-serialization)
+- [Documents, Fonts and Media](#documents-fonts-and-media)
+- [Web Platform](#web-platform)
+- [Networking and Internet Protocols](#networking-and-internet-protocols)
+- [Security and Identity](#security-and-identity)
+- [APIs, Messaging and Developer Tooling](#apis-messaging-and-developer-tooling)
+- [Cloud and Containers](#cloud-and-containers)
+- [Databases](#databases)
+- [Systems, Graphics and Compute](#systems-graphics-and-compute)
+- [IoT and Industry-Specific](#iot-and-industry-specific)
 - [Contributing](#contributing)
 
-## List of awesome open standards
-
-### [Cloud Events](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/spec.md)
-
-- CloudEvents is a specification for describing event data
- in common formats to provide interoperability across services,
-  platforms and systems.
-
-### [GeoJSON](https://datatracker.ietf.org/doc/html/rfc7946)
-
-- GeoJSON is a geospatial data interchange format based on JavaScript
-   Object Notation (JSON).  It defines several types of JSON objects and
-   the manner in which they are combined to represent data about
-   geographic features, their properties, and their spatial extents.
-
-### [HTML](https://html.spec.whatwg.org/multipage/)
-
-- HTML is the World Wide Web's core markup language. Originally, HTML was
- primarily designed as a language for semantically describing scientific documents.
-
-### [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-
-- Hypertext Transfer Protocol (HTTP) is an application-layer protocol
- for transmitting hypermedia documents, such as HTML.
-
-### [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
-
-- ISO 8601 tackles this uncertainty by setting out an internationally
- agreed way to represent dates.
-
-### [JSON](https://www.json.org/json-en.html)
-
-- JSON (JavaScript Object Notation) is a lightweight data-interchange format.
-
-### [JSON Schema](https://json-schema.org/)
-
-- JSON Schema is the vocabulary that enables JSON data consistency.
-
-### [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/)
-
-- The language server protocol defines a set of JSON-RPC request,
-response and notification messages which are exchanged
-using the above base protocol.
-
-### [Markdown](https://www.markdownguide.org/getting-started/)
-
-- Markdown is a lightweight markup language that you can use to
- add formatting elements to plaintext text documents.
-
-### [OAuth](https://oauth.net/2/)
-
-- OAuth 2.0 is the industry-standard protocol for authorization.
-
-### [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec/blob/2291163927cae6f5105a07d32c675c00ff39244c/spec.md)
-
-- The Open Container Initiative Distribution Specification
- (a.k.a. "OCI Distribution Spec") defines an API protocol to
-  facilitate and standardize the distribution of content.
-
-### [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity)
-
-- In computing, Open Database Connectivity (ODBC) is a standard
- application programming interface (API) for accessing database
-  management systems (DBMS).
-
-### [Open API](https://www.openapis.org/)
-
-- The OpenAPI Specification provides a formal standard for describing HTTP APIs.
-
-### [Open Container Initiative](https://opencontainers.org/)
-
-- The Open Container Initiative is an open governance structure
- for the express purpose of creating open industry standards
-  around container formats and runtimes.
-
-### [Open charge point protocol](https://openchargealliance.org/protocols/open-charge-point-protocol/)
-
-- The goal for Open Charge Point Protocol (OCPP) is to offer a uniform solution
- for the method of communication between charge point and central system.
-  With this protocol it is possible to connect any central system with any
-   charge point, regardless of the vendor. A uniform standard prevents
-    all kinds of coordination problems and  is therefore an advantage
-     for the whole electric vehicle market.
-
-### [Open Data](https://en.wikipedia.org/wiki/Open_data)
-
-- Open data is data that is openly accessible, exploitable, editable
- and shared by anyone for any purpose. Open data is licensed under an open license.
-
-### [Open Document](https://opendocumentformat.org/)
-
-- OpenDocument Format provides a comprehensive solution to
- exchange documents reliably and effortlessly across different products and devices.
-
-### [Open Font Format](https://www.iso.org/standard/52136.html#:~:text=The%20Open%20Font%20Format%20is,or%20CFF%20(PostScript)%20outlines.)
-
-- The Open Font Format is an extension of the TrueType font format,
- adding support for PostScript font data.
-
-### [Open Sound Control Protocol](https://ccrma.stanford.edu/groups/osc/index.html)
-
-- OpenSoundControl (OSC) is a data transport specification (an encoding) for
- realtime message communication among applications and hardware
-
-### [Open SSH](https://www.openssh.com/)
-
-- OpenSSH is the premier connectivity tool for remote
- login with the SSH protocol. It encrypts all traffic
-  to eliminate eavesdropping, connection hijacking,
-   and other attacks. In addition, OpenSSH provides
-    a large suite of secure tunneling capabilities,
-     several authentication methods, and sophisticated
-      configuration options.
-
-### [Open Telemetry](https://opentelemetry.io/)
-
-- OpenTelemetry is a collection of APIs, SDKs, and tools.
- Use it to instrument, generate, collect, and
-  export telemetry data (metrics, logs, and traces)
-   to help you analyze your software’s performance and behavior.
-
-### [OpenGL](https://www.opengl.org/)
-
-- OpenGL (Open Graphics Library) is a cross-language,
- cross-platform application programming interface (API)
-  for rendering 2D and 3D vector graphics.
-
-### [OpenID Connect](https://openid.net/developers/how-connect-works/)
-
-- OpenID Connect is an interoperable authentication protocol based on
- the OAuth 2.0 framework of specifications (IETF RFC 6749 and 6750).
-  It simplifies the way to verify the identity of users based on
-   the authentication performed by an Authorization Server and to
-    obtain user profile information in an interoperable and REST-like manner.
-
-### [OpenMCT](https://github.com/nasa/openmct)
-
-- Open MCT (Open Mission Control Technologies) is a next-generation
- mission control framework for visualization of data on desktop
- and mobile devices.
-
-### [OpenMP](https://www.openmp.org/)
-
-- OpenMP (Open Multi-Processing) is an application programming interface
- (API) that supports multi-platform shared-memory multiprocessing programming
-  in C, C++, and Fortran,[3] on many platforms, instruction-set architectures
-   and operating systems, including Solaris, AIX, FreeBSD, HP-UX, Linux, macOS,
-    and Windows.
-
-### [OpenSSL](https://www.openssl.org/)
-
-- The OpenSSL Project develops and maintains the OpenSSL
- software - a robust, commercial-grade, full-featured
-  toolkit for general-purpose cryptography and secure communication.
-
-### [OpenXLA](https://github.com/openxla)
-
-- A community-driven, open source ML compiler ecosystem,
- using the best of XLA & MLIR.
-
-### [PAM (Portable AI Memory)](https://portable-ai-memory.org)
-
-- An open specification defining a vendor-neutral JSON interchange format
-  for AI user memories, similar to vCard for contacts or iCalendar for events.
-  Defines three composable schemas: Memory Store, Conversation, and Embeddings.
-
-### [POSIX](https://www.linux.org/)
-
-- POSIX (Portable Operating System Interface) is a set of standard operating
- system interfaces based on the Unix operating system.
-
-### [Protocol Buffers](https://protobuf.dev/)
-
-- Protocol Buffers are language-neutral, platform-neutral extensible mechanisms
- for serializing structured data.
-
-### [SAML](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)
-
-- The Security Assertion Markup Language (SAML) standard defines a  
-framework for exchanging security information between online  
-business partners.
-
-### [SQL Standard – ISO/IEC 9075:2023 (ANSI X3.135)](https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/)
-
-- SQL (standing for Structured Query Language) is the standard language for
- relational database management systems. Read more at the ANSI Blog:
- The SQL Standard – ISO/IEC 9075:2023 (ANSI X3.135)
- [https://blog.ansi.org/?p=158690](more).
-
-### [URI](https://datatracker.ietf.org/doc/html/rfc3986)
-
-- A Uniform Resource Identifier (URI) is a compact sequence of characters
- that identifies an abstract or physical resource.
-
-### [vCard Format](https://datatracker.ietf.org/doc/html/rfc6350)
-
-- The vCard specification is a standardized format for exchanging contact
- information between different applications and systems.
-
-### [Web Assembly](https://webassembly.org/)
-
-- WebAssembly (abbreviated Wasm) is a binary instruction format
- for a stack-based virtual machine.
-
-### [XML](https://aws.amazon.com/what-is/xml/)
-
-- Extensible Markup Language (XML) lets you define and store data in a
- shareable manner.
-
-### [YAML](https://yaml.org/)
-
-- YAML is a human-friendly data serialization language for all programming languages.
+## Data Formats and Serialization
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [Atom](https://www.rfc-editor.org/rfc/rfc4287.html) | IETF (RFC 4287) | An XML-based format for web feeds and an alternative to RSS. |
+| [CBOR](https://www.rfc-editor.org/rfc/rfc8949.html) | IETF (RFC 8949) | Concise Binary Object Representation, a compact binary data format based on the JSON data model. |
+| [CSV](https://www.rfc-editor.org/rfc/rfc4180.html) | IETF (RFC 4180) | The common format and MIME type for comma-separated values files. |
+| [GeoJSON](https://www.rfc-editor.org/rfc/rfc7946.html) | IETF (RFC 7946) | A JSON-based format for encoding geographic features, their properties and their spatial extents. |
+| [iCalendar](https://www.rfc-editor.org/rfc/rfc5545.html) | IETF (RFC 5545) | A format for exchanging calendar and scheduling data such as events, to-dos and free/busy time. |
+| [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) | ISO | An internationally agreed way to represent dates, times and durations. |
+| [JSON](https://www.rfc-editor.org/rfc/rfc8259.html) | IETF (RFC 8259) / Ecma (ECMA-404) | JavaScript Object Notation, a lightweight, text-based data-interchange format. |
+| [JSON-LD](https://www.w3.org/TR/json-ld11/) | W3C | A JSON-based format for serializing Linked Data. |
+| [JSON Schema](https://json-schema.org/specification) | JSON Schema Org (OpenJS Foundation) | A vocabulary for annotating and validating JSON documents. |
+| [PAM (Portable AI Memory)](https://portable-ai-memory.org/) | PAM community | A vendor-neutral JSON interchange format for AI user memories, conversations and embeddings. |
+| [Protocol Buffers](https://protobuf.dev/) | Google | A language-neutral, platform-neutral, extensible mechanism for serializing structured data. |
+| [TOML](https://toml.io/en/v1.1.0) | TOML community | A minimal configuration file format that maps unambiguously to a hash table. |
+| [Unicode](https://www.unicode.org/standard/standard.html) | Unicode Consortium | The universal character encoding standard for text in all of the world's writing systems. |
+| [UUID](https://www.rfc-editor.org/rfc/rfc9562.html) | IETF (RFC 9562) | Universally Unique Identifiers, 128-bit identifiers including the time-ordered UUIDv7. |
+| [vCard](https://www.rfc-editor.org/rfc/rfc6350.html) | IETF (RFC 6350) | A format for exchanging contact information between applications and systems. |
+| [XML](https://www.w3.org/TR/xml/) | W3C | Extensible Markup Language, a markup language for storing and exchanging structured data. |
+| [YAML](https://yaml.org/spec/1.2.2/) | YAML Language Development Team | A human-friendly data serialization language for all programming languages. |
+
+[Back to top](#contents)
+
+## Documents, Fonts and Media
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [AV1](https://aomediacodec.github.io/av1-spec/) | Alliance for Open Media | A royalty-free video coding format designed for streaming over the internet. |
+| [CommonMark](https://spec.commonmark.org/) | CommonMark community | A strongly defined, highly compatible specification of Markdown. |
+| [EPUB](https://www.w3.org/TR/epub-33/) | W3C | The distribution and interchange format for digital publications and e-books. |
+| [FLAC](https://www.rfc-editor.org/rfc/rfc9639.html) | IETF (RFC 9639) | Free Lossless Audio Codec, a format for lossless compression of digital audio. |
+| [glTF](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html) | Khronos Group | An efficient format for transmitting and loading 3D scenes and models. |
+| [Open Font Format](https://www.iso.org/standard/74461.html) | ISO/IEC (14496-22) | A font format based on OpenType, supporting TrueType and PostScript (CFF) outlines. |
+| [OpenDocument](https://docs.oasis-open.org/office/OpenDocument/v1.4/OpenDocument-v1.4-part1-introduction.html) | OASIS / ISO/IEC (26300) | An XML-based file format for text documents, spreadsheets, presentations and drawings. |
+| [Opus](https://www.rfc-editor.org/rfc/rfc6716.html) | IETF (RFC 6716) | A royalty-free, highly versatile audio codec for speech and music over the internet. |
+| [PDF](https://www.iso.org/standard/75839.html) | ISO (32000-2) | Portable Document Format, for presenting documents independently of software, hardware and operating system. |
+| [PNG](https://www.w3.org/TR/png-3/) | W3C | Portable Network Graphics, a lossless, well-compressed raster image format. |
+| [SVG](https://www.w3.org/TR/SVG2/) | W3C | Scalable Vector Graphics, an XML-based markup language for two-dimensional vector graphics. |
+
+[Back to top](#contents)
+
+## Web Platform
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [ActivityPub](https://www.w3.org/TR/activitypub/) | W3C | A decentralized social networking protocol, used by the fediverse. |
+| [CSS](https://www.w3.org/Style/CSS/specs.en.html) | W3C | Cascading Style Sheets, the language for describing the presentation of web documents. |
+| [ECMAScript](https://tc39.es/ecma262/) | Ecma TC39 (ECMA-262) | The language specification that JavaScript implements. |
+| [HTML](https://html.spec.whatwg.org/multipage/) | WHATWG | The World Wide Web's core markup language. |
+| [WCAG](https://www.w3.org/TR/WCAG22/) | W3C | Web Content Accessibility Guidelines for making web content accessible to people with disabilities. |
+| [WebAssembly](https://webassembly.github.io/spec/core/) | W3C | A binary instruction format for a stack-based virtual machine, designed as a portable compilation target. |
+| [WebAuthn](https://www.w3.org/TR/webauthn-3/) | W3C | An API for strong, public-key-based authentication on the web, the basis of passkeys. |
+| [WebGPU](https://www.w3.org/TR/webgpu/) | W3C | An API for performing graphics and computation on the GPU from the web. |
+
+[Back to top](#contents)
+
+## Networking and Internet Protocols
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [DNS](https://www.rfc-editor.org/rfc/rfc1035.html) | IETF (RFC 1034, 1035) | The Domain Name System, which maps domain names to IP addresses and other records. |
+| [HTTP](https://www.rfc-editor.org/rfc/rfc9110.html) | IETF (RFC 9110) | Hypertext Transfer Protocol, the application-layer protocol for transmitting hypermedia such as HTML. |
+| [IMAP](https://www.rfc-editor.org/rfc/rfc9051.html) | IETF (RFC 9051) | Internet Message Access Protocol, for accessing and managing email on a server. |
+| [IPv4](https://www.rfc-editor.org/rfc/rfc791.html) | IETF (RFC 791) | Internet Protocol version 4, the original addressing and routing protocol of the internet. |
+| [IPv6](https://www.rfc-editor.org/rfc/rfc8200.html) | IETF (RFC 8200) | Internet Protocol version 6, the successor to IPv4 with a 128-bit address space. |
+| [QUIC](https://www.rfc-editor.org/rfc/rfc9000.html) | IETF (RFC 9000) | A secure, multiplexed, UDP-based transport protocol and the foundation of HTTP/3. |
+| [SMTP](https://www.rfc-editor.org/rfc/rfc5321.html) | IETF (RFC 5321) | Simple Mail Transfer Protocol, the standard for sending and relaying email. |
+| [SSH](https://www.rfc-editor.org/rfc/rfc4251.html) | IETF (RFC 4251-4254) | Secure Shell, a protocol for secure remote login and other network services over an insecure network. |
+| [TCP](https://www.rfc-editor.org/rfc/rfc9293.html) | IETF (RFC 9293) | Transmission Control Protocol, providing reliable, ordered byte streams between hosts. |
+| [TLS](https://www.rfc-editor.org/rfc/rfc9846.html) | IETF (RFC 9846) | Transport Layer Security 1.3, which encrypts and authenticates communication over a network. |
+| [UDP](https://www.rfc-editor.org/rfc/rfc768.html) | IETF (RFC 768) | User Datagram Protocol, a minimal, connectionless transport protocol. |
+| [URI](https://www.rfc-editor.org/rfc/rfc3986.html) | IETF (RFC 3986) | Uniform Resource Identifier, a compact sequence of characters that identifies a resource. |
+| [WebSocket](https://www.rfc-editor.org/rfc/rfc6455.html) | IETF (RFC 6455) | A protocol for full-duplex communication over a single TCP connection. |
+
+[Back to top](#contents)
+
+## Security and Identity
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [ACME](https://www.rfc-editor.org/rfc/rfc8555.html) | IETF (RFC 8555) | Automatic Certificate Management Environment, the protocol for automating certificate issuance used by Let's Encrypt. |
+| [JWT](https://www.rfc-editor.org/rfc/rfc7519.html) | IETF (RFC 7519) | JSON Web Token, a compact, URL-safe way to represent claims transferred between two parties. |
+| [OAuth 2.0](https://www.rfc-editor.org/rfc/rfc6749.html) | IETF (RFC 6749) | The industry-standard framework for delegated authorization. |
+| [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | OpenID Foundation | An identity layer on top of OAuth 2.0 for verifying users and obtaining basic profile information. |
+| [OpenPGP](https://www.rfc-editor.org/rfc/rfc9580.html) | IETF (RFC 9580) | A message format for encryption, digital signatures and key management. |
+| [SAML](https://docs.oasis-open.org/security/saml/v2.0/) | OASIS | Security Assertion Markup Language, an XML framework for exchanging authentication and authorization data. |
+| [Verifiable Credentials](https://www.w3.org/TR/vc-data-model-2.0/) | W3C | A data model for cryptographically verifiable digital credentials. |
+| [X.509 PKI](https://www.rfc-editor.org/rfc/rfc5280.html) | IETF (RFC 5280) / ITU-T | The certificate and certificate revocation list profile used by TLS and the web's public key infrastructure. |
+
+[Back to top](#contents)
+
+## APIs, Messaging and Developer Tooling
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [AsyncAPI](https://www.asyncapi.com/docs/reference/specification/latest) | AsyncAPI Initiative (Linux Foundation) | A specification for describing event-driven and message-based APIs. |
+| [CloudEvents](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/spec.md) | CNCF | A specification for describing event data in a common way across services, platforms and systems. |
+| [CycloneDX](https://cyclonedx.org/specification/overview/) | OWASP / Ecma (ECMA-424) | A bill of materials standard for software, services, hardware and more, used in supply chain security. |
+| [GraphQL](https://spec.graphql.org/) | GraphQL Foundation | A query language and runtime for APIs that lets clients request exactly the data they need. |
+| [JSON-RPC](https://www.jsonrpc.org/specification) | JSON-RPC Working Group | A lightweight, transport-agnostic remote procedure call protocol encoded in JSON. |
+| [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specifications/lsp/3.18/specification/) | Microsoft | A JSON-RPC protocol between editors and language servers for features like completion and go-to-definition. |
+| [Model Context Protocol](https://modelcontextprotocol.io/specification/latest) | Agentic AI Foundation (Linux Foundation) | An open protocol for connecting AI applications to external tools and data sources. |
+| [OpenAPI](https://spec.openapis.org/oas/latest.html) | OpenAPI Initiative (Linux Foundation) | A formal standard for describing HTTP APIs. |
+| [OpenTelemetry](https://opentelemetry.io/docs/specs/otel/) | CNCF | A specification for generating, collecting and exporting telemetry data: traces, metrics and logs. |
+| [SARIF](https://docs.oasis-open.org/sarif/sarif/v2.1.0/sarif-v2.1.0.html) | OASIS | Static Analysis Results Interchange Format, a JSON format for the output of static analysis tools. |
+| [Semantic Versioning](https://semver.org/) | SemVer community | A versioning scheme (MAJOR.MINOR.PATCH) that communicates the nature of changes. |
+| [SPDX](https://spdx.dev/use/specifications/) | Linux Foundation / ISO/IEC (5962) | Software Package Data Exchange, a format for software bills of materials and license information. |
+
+[Back to top](#contents)
+
+## Cloud and Containers
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec/blob/main/spec.md) | Open Container Initiative | An API protocol for distributing container images and other content through registries. |
+| [OCI Image Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md) | Open Container Initiative | The format of container images: manifests, configuration and filesystem layers. |
+| [OCI Runtime Specification](https://github.com/opencontainers/runtime-spec/blob/main/spec.md) | Open Container Initiative | The configuration, execution environment and lifecycle of a container. |
+
+[Back to top](#contents)
+
+## Databases
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [ODBC](https://learn.microsoft.com/en-us/sql/odbc/reference/odbc-programmer-s-reference) | Microsoft / ISO/IEC (9075-3, SQL/CLI) | Open Database Connectivity, a standard API for accessing database management systems. |
+| [SQL](https://www.iso.org/standard/76583.html) | ISO/IEC (9075) | Structured Query Language, the standard language for relational database management systems. |
+
+[Back to top](#contents)
+
+## Systems, Graphics and Compute
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [ONNX](https://onnx.ai/) | LF AI & Data | Open Neural Network Exchange, an open format for representing machine learning models. |
+| [OpenCL](https://registry.khronos.org/OpenCL/) | Khronos Group | A framework for writing programs that run across CPUs, GPUs and other processors. |
+| [OpenGL](https://registry.khronos.org/OpenGL/index_gl.php) | Khronos Group | A cross-language, cross-platform API for rendering 2D and 3D vector graphics. |
+| [OpenMP](https://www.openmp.org/specifications/) | OpenMP Architecture Review Board | An API for shared-memory parallel programming in C, C++ and Fortran. |
+| [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) | IEEE / The Open Group | Portable Operating System Interface, standard operating system interfaces based on Unix. |
+| [Vulkan](https://registry.khronos.org/vulkan/) | Khronos Group | A low-overhead, cross-platform API for 3D graphics and compute. |
+
+[Back to top](#contents)
+
+## IoT and Industry-Specific
+
+| Standard | Maintained by | Description |
+| --- | --- | --- |
+| [CoAP](https://www.rfc-editor.org/rfc/rfc7252.html) | IETF (RFC 7252) | Constrained Application Protocol, a web transfer protocol for constrained devices and networks. |
+| [HL7 FHIR](https://hl7.org/fhir/) | HL7 International | Fast Healthcare Interoperability Resources, a standard for exchanging healthcare information electronically. |
+| [MQTT](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) | OASIS | A lightweight publish/subscribe messaging protocol for IoT devices and constrained networks. |
+| [OPC UA](https://reference.opcfoundation.org/) | OPC Foundation / IEC (62541) | OPC Unified Architecture, a platform-independent standard for industrial automation data exchange. |
+| [Open Charge Point Protocol](https://openchargealliance.org/protocols/open-charge-point-protocol/) | Open Charge Alliance | A uniform protocol for communication between electric vehicle charging stations and central management systems. |
+| [Open Sound Control](https://opensoundcontrol.stanford.edu/spec-1_0.html) | CNMAT (UC Berkeley) | A protocol for real-time communication among computers, sound synthesizers and other multimedia devices. |
+
+[Back to top](#contents)
 
 ## Contributing
 
-Your contributions are always welcome. Create a PR for a popular open standard.
+Contributions are always welcome. To suggest a standard, open a pull request
+that adds one row to the table of the most fitting category.
+
+- **It must be an open standard.** The specification is publicly available
+  (some, such as ISO standards, may be sold) and anyone may implement it. Software projects and libraries (for example
+  OpenSSL) belong in other lists; link the protocol or format they implement.
+- **Link the specification itself**, or its official home page, rather than a
+  tutorial, blog post or encyclopedia article.
+- **Fill in all three columns**: the standard's name, the body that maintains
+  it (with the document number where there is one) and a one-sentence
+  description.
+- **Keep each table in alphabetical order.**
+- CI lints the Markdown and checks every link, so make sure both pass.

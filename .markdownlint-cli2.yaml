@@ -1,0 +1,3 @@
+config:
+  # Table rows and prose paragraphs are allowed to be long.
+  MD013: false

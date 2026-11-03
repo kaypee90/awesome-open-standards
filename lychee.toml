@@ -1,0 +1,20 @@
+# Link checker configuration (https://lychee.cli.rs)
+
+# Some sites rate-limit CI runners; treat that as reachable.
+accept = ["200..=299", "429"]
+
+# Also verify in-page anchors such as the table of contents.
+include_fragments = "anchor-only"
+
+max_retries = 3
+timeout = 30
+user_agent = "Mozilla/5.0 (compatible; awesome-open-standards link checker)"
+
+# These sites reject automated requests or CI runners (HTTP 403) even though the pages
+# exist. Verify links to them by hand when editing.
+exclude = [
+  '^https://www\.iso\.org/',
+  '^https://registry\.khronos\.org/',
+  # The CI badge only resolves once the workflow exists on main.
+  '^https://github\.com/kaypee90/awesome-open-standards/actions/',
+]
