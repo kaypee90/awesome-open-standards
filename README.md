@@ -33,6 +33,7 @@ itself (or its official home page) and names the body that maintains it.
 | [JSON](https://www.rfc-editor.org/rfc/rfc8259.html) | IETF (RFC 8259) / Ecma (ECMA-404) | JavaScript Object Notation, a lightweight, text-based data-interchange format. |
 | [JSON-LD](https://www.w3.org/TR/json-ld11/) | W3C | A JSON-based format for serializing Linked Data. |
 | [JSON Schema](https://json-schema.org/specification) | JSON Schema Org (OpenJS Foundation) | A vocabulary for annotating and validating JSON documents. |
+| [PAM (Portable AI Memory)](https://portable-ai-memory.org/) | PAM community | A vendor-neutral JSON interchange format for AI user memories, conversations and embeddings. |
 | [Protocol Buffers](https://protobuf.dev/) | Google | A language-neutral, platform-neutral, extensible mechanism for serializing structured data. |
 | [TOML](https://toml.io/en/v1.1.0) | TOML community | A minimal configuration file format that maps unambiguously to a hash table. |
 | [Unicode](https://www.unicode.org/standard/standard.html) | Unicode Consortium | The universal character encoding standard for text in all of the world's writing systems. |
